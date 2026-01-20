@@ -171,7 +171,7 @@ incluyendo dominio propio, certificado SSL y copias de seguridad periódicas.
 </p>
 <p>
   <a href="https://github.com/andrezznz/ReservaDeCafeProyecto/wiki">
-    https://github.com/AnthonyJoelRY/MegaSantiagoFront/wiki
+    https://github.com/andrezznz/ReservaDeCafeProyecto/wiki
   </a>
 </p>
 
