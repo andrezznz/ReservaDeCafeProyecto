@@ -165,11 +165,11 @@ incluyendo dominio propio, certificado SSL y copias de seguridad periódicas.
 
 <hr>
 
-<h2>Licencia</h2>
+### Licencia
 
-<p>
-Este proyecto se desarrolla con fines académicos para la
-<strong>Carrera de Computación – UTPL</strong>.
-  <br>
-<strong>GNU GENERAL PUBLIC LICENSE</strong>.
-</p>
+Este proyecto se desarrolla con fines académicos y se distribuye bajo la
+**GNU GENERAL PUBLIC LICENSE.**.
+
+© 2025–2026 GNU GENERAL PUBLIC LICENSE.
+Puedes consultar el texto completo de la licencia en:
+[https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
