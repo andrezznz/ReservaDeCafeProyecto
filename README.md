@@ -3,6 +3,14 @@
 <p><strong>Reserva de Café</strong> es un proyecto académico orientado al diseño, desarrollo e implementación de una
 plataforma web de comercio electrónico para una cafetería local con proyección de distribución a nivel nacional.</p>
 
+<p>
+<strong>Sitio web:</strong>
+<a href="https://reservadecafe.com/" target="_blank">
+  https://reservadecafe.com/
+</a>
+</p>
+
+
 <hr>
 
 <h2>Descripción del Proyecto</h2>
