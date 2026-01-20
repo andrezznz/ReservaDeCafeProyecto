@@ -165,6 +165,18 @@ incluyendo dominio propio, certificado SSL y copias de seguridad periódicas.
 
 <hr>
 
+<h2>Documentación</h2>
+<p>
+  La documentación técnica y funcional completa está disponible en la Wiki del proyecto:
+</p>
+<p>
+  <a href="https://github.com/andrezznz/ReservaDeCafeProyecto/wiki">
+    https://github.com/AnthonyJoelRY/MegaSantiagoFront/wiki
+  </a>
+</p>
+
+<hr>
+
 ### Licencia
 
 Este proyecto se desarrolla con fines académicos y se distribuye bajo la
